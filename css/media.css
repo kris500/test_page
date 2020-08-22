@@ -1,0 +1,490 @@
+@media ( max-width: 1200px ) {
+	.header {
+		background-size: 65% 100%;
+	}
+
+	.box {
+		margin-bottom: 17px;
+	}
+
+	.label {
+		margin-top: 14px;
+	}
+
+	.details {
+		margin-right: 40px;
+	}
+
+	.string {
+		width: 55%;
+	}
+	.experts_descr h2 {
+		font-size: 13px;
+	}
+
+	.experts_descr h3 {
+		font-size: 10px;
+	}
+
+	.experts_img img {
+		width: 50px;
+		height: 50px;
+	}
+
+	.slide {
+		width: 232px;
+	}
+
+	#btn_look {
+		display: none;
+	}
+}
+
+@media ( max-width: 992px ) {
+	.title {
+		font-size: 38px;
+		margin-top: 34px;
+	}
+
+	.title_box {
+		margin-top: 36px;
+	}
+
+	.wrapper {
+		height: auto;
+		padding-bottom: 31px;
+	}
+
+	.date h2 {
+		font-size: 24px;
+	}
+
+	.header {
+		background-size: 60% 100%;
+	}
+
+	.altay {
+		margin-bottom: 0;
+	}
+
+	.time {
+		margin: 22px 15px 0 30px;
+	}
+
+	.time h2 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+
+	.time h3 {
+		font-size: 17px;
+	}
+
+	.text {
+		margin-top: 14px;
+		line-height: 18px;
+	}
+
+	.btn div {
+		padding-right: 25px;
+	}	
+
+	#btn_static div {
+    padding-right: 25px;
+	}
+
+	#btn_choice div {
+		padding-right: 10px;
+	}
+
+	#btn_choice:after {
+		padding: 4px;
+	}
+
+	.btn {
+		padding-right: 15px;
+		padding-left: 10px;
+		width: 169px;
+		height: 44px;
+		margin-right: 20px;
+	}
+
+	.recording {
+		margin-top: 9px;
+	}
+
+	.details {
+		margin-right: 25px;
+	}
+
+	.label {
+		margin: 23px 83px 0 154px;
+}
+	.profi {
+		width: 57px;
+	}
+
+	.agent {
+		width: 110px;
+	}
+
+	.krasnaya_polyana {
+		width: 122px;
+	}
+
+	.experts_title {
+		margin-left: 154px;
+	}
+
+	.string {
+		height: 3px;
+		width: 506px;
+		margin-left: 154px;
+		margin-top: 9px;
+	}
+
+	.swiper-container {
+		margin: 14px 0 0 154px;
+	}
+
+	.slide {
+		width: 238px;
+	}
+
+	.experts_descr h3 {
+    font-size: 11px;
+		line-height: 14px;
+	}
+
+	.experts_descr h2 {
+		font-size: 14px;
+	}
+
+	.experts_img img {
+    width: 38px;
+		height: 38px;
+	}
+
+	.gray_line {
+		height: 5px;
+		background: #EEEEEE;
+		margin-top: 39px;
+	}
+}
+
+@media ( max-width: 767px ) {
+	.title {
+    font-size: 30px;
+		margin-top: 20px;
+	}
+
+	.title_box {
+		margin-top: 25px;
+	}
+
+	.header {
+		background-size: 48% 100%;
+		padding-right: 30px;
+	}
+
+	.date h2 {
+		font-size: 24px;
+		margin-left: 32px;
+	}
+
+	.time {
+		margin: 20px 10px 0 10px;
+	}
+
+	.time h2 {
+    font-size: 24px;
+		line-height: 37px;
+	}
+
+	.time h3 {
+		font-size: 12px;
+	}
+
+	.text {
+		font-size: 13px;
+		line-height: 17px;
+		margin-right: 5px;
+	}
+
+	.btn div {
+		padding-right: 3px;
+		padding-left: 8px;
+	}
+
+	.btn {
+		padding-left: 6px;
+		padding-right: 4px;
+		width: 125px;
+		margin-right: 9px;
+		height: 37px;
+		font-size: 15px;
+	}
+
+	#btn_static div {
+		padding-right: 4px;
+	}
+
+	#btn_choice {
+		font-size: 14px;
+		padding-left: 0;
+		padding-right: 8px;
+	}
+
+	#btn_choice div {
+		padding-right: 2px;
+	}
+
+	.recording {
+    margin-top: 5px;
+		font-size: 10px;
+	}
+
+	.label {
+		margin-left: 105px;
+		margin-top: 10px;
+	}
+
+	.details {
+    width: 80px;
+    height: 26px;
+    font-size: 12px;
+	}
+
+	.profi {
+		width: 53px;
+	}
+
+	.krasnaya_polyana {
+		width: 116px;
+	}
+
+	.string {
+		margin-left: 105px;
+		width: 385px;
+	}
+
+	.experts_title {
+		margin-left: 105px;
+		margin-top: 10px;
+	}
+
+	.swiper-container {
+    margin-left: 105px;
+	}
+
+	.slide {
+		width: 275px;
+	}
+	
+	.experts_img img {
+    width: 40px;
+		height: 40px;
+	}
+}
+
+@media ( max-width: 576px ) {
+	.box {
+		padding-left: 20px;
+		padding-right: 23px;
+	}
+
+	.title { 
+		font-size: 24px;
+		margin-top: 18px;
+	}
+
+	.title_box {
+		margin-top: 14px;
+		background: #fff;
+	}
+
+	.wrapper {
+		height: 522px;
+		padding-bottom: 40px;
+		padding-top: 12px;
+	}
+
+	.header {
+		height: 59px;
+		background-size: 65% 100%;
+		padding-right: 38px;
+	}
+
+	.logo {
+		display: none;
+	}
+
+	.logo_mobile {
+		display: flex;
+    align-items: center;
+	}
+
+	.date {
+		display: flex;
+    align-items: center;
+	}
+
+	.date h2 {
+		font-size: 18px;
+		margin-left: 22px;
+		margin-bottom: 0;
+	}
+
+	.time_record {
+		display: block;
+	}
+
+	.time {
+		margin-top: 0;
+		margin-left: 0;
+	}
+
+	.time h2 {
+		font-size: 20px;
+		line-height: 27px;
+	}
+
+	.time h3 {
+		font-size: 12px;
+		line-height: 17px;
+	}
+
+	.text {
+		font-size: 14px;
+		line-height: 18px;
+		margin-top: 7px;
+		margin-bottom: 11px;
+	}
+
+	.text span {
+		display: none;
+	}
+
+	.details {
+		width: 92px;
+		height: 32px;
+		font-size: 14px;
+		margin-top: 11px;
+	}
+
+	.profi {
+		width: 45px;
+	}
+
+	.agent {
+		width: 96px;
+	}
+
+	.krasnaya_polyana {
+		width: 92px;
+	}
+
+	.string {
+		width: 100%;
+		margin-left: 0;
+		margin-top: 18px;
+	}
+
+	.btn {
+		width: 264px;
+		height: 44px;
+		font-size: 17px;
+		padding-right: 25px;
+    padding-left: 47px;
+		margin: 0 auto;
+	}
+
+	.btn div {
+		padding-right: 54px;
+	}
+	
+	#btn_static div {
+		padding-right: 54px;
+	}
+
+	#btn_choice {
+    font-size: 17px;
+    padding-left: 44px;
+		padding-right: 25px;
+	}
+
+	#btn_choice div {
+		padding-right: 41px;
+	}
+
+	.label {
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+		margin: 0;
+		text-align: center;
+	}
+
+	.label .button {
+		order: 2;
+		text-align: left;
+	}
+
+	.record {
+		position: absolute;
+		top: 446px;
+    bottom: 0;
+		left: 50%;
+		margin-left: -132px;
+	}
+
+	.recording {
+		font-size: 10px;
+		margin-top: 10px;
+	}
+
+	.line-break {
+		width: 100%;
+	}
+
+	.experts_title {
+		margin-left: 0;
+		margin-top: 13px;
+	}
+
+	.swiper-container {
+		height: 155px;
+		margin: 13px 0 60px 0;
+	}
+
+	.swiper-button-next {
+		display: none;
+	}
+
+	.swiper-slide {
+		height:100%;
+		overflow:auto;
+	}
+
+	.experts_descr h2 {
+		font-size: 14px;
+	}
+
+	.experts_descr h3 {
+		font-size: 11px;
+		line-height: 14px;
+	}
+
+	.experts_img img {
+    width: 38px;
+		height: 38px;
+	}
+
+	.box_disabled {
+		display: none;
+	}
+
+	.gray_line {
+		display: none;
+	}
+}
